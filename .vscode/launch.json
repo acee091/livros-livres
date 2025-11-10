@@ -15,7 +15,7 @@
         "DATABASE_USER": "root", // User that access mysql database (root)
         "DATABASE_PASSWORD": "",  // Database password (null)
         "MAIL_SENDER_ADDRESS": "livroslivresanddogs@gmail.com", // endereço de email do livroslivres (null)
-        "MAIL_SENDER_PASSWORD": "lkbwocfebljgeisq" // senha do app do gmail do livroslivres (sem espaços) (null)
+        "MAIL_SENDER_PASSWORD": "" // senha do app do gmail do livroslivres (sem espaços) (null)
       }
     }
   ]
